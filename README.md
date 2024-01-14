@@ -23,6 +23,7 @@ Ensure you have the following installed:
 - playsound (Play sound in Python)
 
   If you face problem when instaling playsound
+
   use **pip install --upgrade setuptools wheel**
 
 ### Installation
